@@ -13,3 +13,7 @@ module.exports.b = function() {
 module.exports.c = function(){
   console.log('c');
 }
+
+module.exports.d = function(){
+  console.log('d');
+}
